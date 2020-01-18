@@ -1,0 +1,25 @@
+{
+  "name": "sql-roster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonoAugustine/sql-roster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonoAugustine/sql-roster/issues"
+  },
+  "homepage": "https://github.com/JonoAugustine/sql-roster#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.3",
+    "promise-mysql": "^4.1.1"
+  }
+}
